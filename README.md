@@ -34,14 +34,6 @@ Este programa tiene como objetivo gestionar una lista de productos utilizando un
 ### Funcionalidades actuales:
 - **Agregar un producto**: permite al usuario ingresar el nombre de un producto que se añade a un `ArrayList`.
 
-### A mejorar:
-- El menú está definido pero no implementado completamente.
-- Las demás funcionalidades (mostrar lista, eliminar, buscar, ordenar) están declaradas pero aún no desarrolladas.
-
-> **Nota:** Este archivo sirve como base para expandir funcionalidades relacionadas con listas dinámicas.
-
----
-
 ## Requisitos
 
 - Java JDK 8 o superior
@@ -56,3 +48,6 @@ Este programa tiene como objetivo gestionar una lista de productos utilizando un
    
    javac Array.java
    javac ArrayList1.java
+
+## Autor
+Diego Javier Monterroso Altamirano
